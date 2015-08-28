@@ -1,0 +1,67 @@
+﻿body {
+    font-family: 'Open Sans', sans-serif
+}
+
+header, footer{
+    background-color: #333;
+    color: #ddd;
+    padding: 20px;
+    text-align: center;
+}
+
+.left-nav-column{
+    height:1000px;
+    background-color: #888888;
+    padding-top: 50px;
+}
+
+/*Logo Container*/
+.logo-container{
+    width: 100%;;
+    height: 50px;
+    margin-bottom: 50px;
+}
+
+.logo-container img{
+    max-height: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+
+/*Center Column Post*/
+.gundam-ad-post{
+    padding-bottom: 50px;
+    /*box-shadow: 10px 10px 5px #888888;*/
+    box-shadow: 5px 5px 15px #888888;
+}
+
+.gundam-ad-post h1{
+    padding-top: 5px;
+    text-align: center;
+}
+
+.post-image-container{
+    width: 100%;
+    height: 500px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.post-image-container img{
+    max-height: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+
+.right-nav-column{
+    /*//height:1000px;*/
+    background-color: #888888
+}
+
+.right-nav-column-top div{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}

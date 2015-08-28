@@ -1,0 +1,6 @@
+C:\Users\Tonyt\Desktop\Tony's PC\Projects\ResponsivePatterns\ResponsivePatterns\bin\ResponsivePatterns.dll.config
+C:\Users\Tonyt\Desktop\Tony's PC\Projects\ResponsivePatterns\ResponsivePatterns\bin\ResponsivePatterns.dll
+C:\Users\Tonyt\Desktop\Tony's PC\Projects\ResponsivePatterns\ResponsivePatterns\bin\ResponsivePatterns.pdb
+C:\Users\Tonyt\Desktop\Tony's PC\Projects\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.csprojResolveAssemblyReference.cache
+C:\Users\Tonyt\Desktop\Tony's PC\Projects\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.dll
+C:\Users\Tonyt\Desktop\Tony's PC\Projects\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.pdb
